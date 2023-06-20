@@ -1,0 +1,684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LEL 2017\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-23 17:52+0000\n"
+"PO-Revision-Date: 2017-07-23 17:53+0000\n"
+"Last-Translator: Phil <website@londonedinburghlondon.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/class-woocommerce.php:1055
+msgid "Please provide your date of birth"
+msgstr ""
+
+#: includes/class-woocommerce.php:1062
+msgid "Please provide your date of birth in yyyy-mm-dd format"
+msgstr ""
+
+#: includes/class-woocommerce.php:1070
+msgid "You must be logged in to pruchase this product"
+msgstr ""
+
+#: includes/class-woocommerce.php:1075
+msgid "Riders resident in the UK may not purchase this product"
+msgstr ""
+
+#: includes/class-woocommerce.php:1089
+msgid "You must be aged 18-65 on 10th August 2017 to purchase this product"
+msgstr ""
+
+#: includes/class-woocommerce.php:1104
+msgid "You must be aged 66-75 on 10th August 2017 to purchase this product"
+msgstr ""
+
+#: includes/class-woocommerce.php:1186
+msgid "Fees"
+msgstr ""
+
+#: includes/class-charts.php:1616
+msgid "Riders"
+msgstr ""
+
+#: includes/class-common.php:698 includes/class-common.php:721
+msgid "Mandatory"
+msgstr ""
+
+#: includes/class-common.php:700 includes/class-common.php:723
+msgid "Bed Capacity"
+msgstr ""
+
+#: includes/class-volunteer.php:261
+msgid "Please enter search criteria"
+msgstr ""
+
+#: includes/class-volunteer.php:345
+msgid "Rider number not recognised."
+msgstr "Radfahrer-Nummer nicht erkannt"
+
+#: includes/class-volunteer.php:569
+msgid ""
+"Duplicate scan, please wait 15 seconds and try again if not a duplicate."
+msgstr ""
+
+#: includes/class-volunteer.php:703
+msgid "There was an error please refresh screen"
+msgstr ""
+
+#: includes/class-volunteer.php:731
+msgid "Rider successfully scanned"
+msgstr ""
+
+#: includes/class-volunteer.php:874
+msgid "Rider notes successfully updated"
+msgstr ""
+
+#: includes/class-rider.php:188 includes/class-rider.php:787
+msgid "Your preferred start time is now locked"
+msgstr ""
+
+#: includes/class-rider.php:331
+msgid "Your bag drop choices are now locked"
+msgstr ""
+
+#: includes/class-rider.php:439 includes/class-rider.php:625
+msgid "Description cannot be empty"
+msgstr ""
+
+#: includes/class-rider.php:447 includes/class-rider.php:638
+msgid "Start time not in yyyy-mm-dd hh:mm format"
+msgstr ""
+
+#: includes/class-rider.php:456 includes/class-rider.php:646
+msgid "time limit not valid"
+msgstr ""
+
+#: includes/class-rider.php:463 includes/class-rider.php:653
+msgid "Total Places must be numeric"
+msgstr ""
+
+#: includes/class-rider.php:494
+msgid "There was an error adding the wave"
+msgstr ""
+
+#: includes/class-rider.php:500
+msgid "Rider Wave has been added"
+msgstr ""
+
+#: includes/class-rider.php:690
+msgid "There was an error updating the wave"
+msgstr ""
+
+#: includes/class-rider.php:698
+msgid "Rider Wave has been updated"
+msgstr ""
+
+#: includes/class-rider.php:758
+msgid "There was an error deleting the wave"
+msgstr ""
+
+#: includes/class-rider.php:764
+msgid "Rider Wave has been deleted"
+msgstr ""
+
+#: includes/class-rider.php:820
+msgid "You are in"
+msgstr ""
+
+#: includes/class-rider.php:844
+msgid "Designated time has been set"
+msgstr ""
+
+#: includes/class-rider.php:1021
+msgid "Team"
+msgstr ""
+
+#: includes/class-rider.php:1024
+msgid "Preferred Start"
+msgstr ""
+
+#: includes/class-rider.php:1027
+msgid "Designated Start"
+msgstr ""
+
+#: includes/class-rider.php:1602 includes/class-rider.php:1610
+msgid "Designated Start not set"
+msgstr ""
+
+#. Name of the plugin
+msgid "LEL 2017"
+msgstr ""
+
+#. Description of the plugin
+msgid "London Edinburgh London specific functionality"
+msgstr ""
+
+#. Author of the plugin
+msgid "Phil Whitehurst"
+msgstr ""
+
+#: includes/class-charts.php:116 includes/class-charts.php:126 
+#: includes/class-rider.php:114 includes/class-rider.php:123
+msgid "Bag Drop"
+msgstr "Gepäckabgabe"
+
+#: includes/class-charts.php:222
+msgid "Requested Places"
+msgstr "Angeforderte Plätze"
+
+#: includes/class-charts.php:232
+msgid "Available Places"
+msgstr "Verfügbare Plätze"
+
+#: includes/class-charts.php:347
+msgid "Time in Hand (mins)"
+msgstr "Zeit in der Hand (Min.)"
+
+#: includes/class-charts.php:381 includes/class-charts.php:528 
+#: includes/class-charts.php:685 includes/class-charts.php:815 
+#: includes/class-charts.php:942 includes/class-volunteer.php:421
+msgid "No tracking data found"
+msgstr "Keine Tracking-Daten gefunden"
+
+#: includes/class-charts.php:387 includes/class-charts.php:534 
+#: includes/class-charts.php:691 includes/class-charts.php:821 
+#: includes/class-charts.php:948 includes/class-volunteer.php:430
+msgid "Tracking data found"
+msgstr "Tracking Daten gefunden"
+
+#: includes/class-charts.php:470 includes/class-charts.php:623
+msgid "Overall Average Speed (km/h)"
+msgstr "Gesamtdurchschnittsgeschwindigkeit (km / h)"
+
+#: includes/class-charts.php:481 includes/class-charts.php:636
+msgid "Average Speed from last control (km/h)"
+msgstr "Durchschnittliche Geschwindigkeit von letzter Kontrolle (km / h)"
+
+#: includes/class-charts.php:772
+msgid "Elapsed (hours)"
+msgstr "Verstrichen (Stunden)"
+
+#: includes/class-charts.php:900 includes/class-common.php:819
+msgid "Distance (km)"
+msgstr "Entfernung (km)"
+
+#: includes/class-charts.php:1024 includes/class-charts.php:1597 
+#: includes/class-common.php:696 includes/class-common.php:714
+msgid "Northbound"
+msgstr "Nördlich"
+
+#: includes/class-charts.php:1033 includes/class-charts.php:1606 
+#: includes/class-common.php:697 includes/class-common.php:719
+msgid "Southbound"
+msgstr "Südlich"
+
+#: includes/class-common.php:167 includes/class-rider.php:323 
+#: includes/class-rider.php:340 includes/class-rider.php:414 
+#: includes/class-rider.php:422 includes/class-rider.php:429 
+#: includes/class-rider.php:510 includes/class-rider.php:585 
+#: includes/class-rider.php:595 includes/class-rider.php:602 
+#: includes/class-rider.php:615 includes/class-rider.php:709 
+#: includes/class-rider.php:717 includes/class-rider.php:724 
+#: includes/class-rider.php:734 includes/class-rider.php:780 
+#: includes/class-rider.php:796 includes/class-rider.php:856 
+#: includes/class-rider.php:1214 includes/class-rider.php:1225 
+#: includes/class-rider.php:1301 includes/class-rider.php:1312 
+#: includes/class-rider.php:1387 includes/class-rider.php:1398 
+#: includes/class-rider.php:1477 includes/class-rider.php:1488 
+#: includes/class-rider.php:1563 includes/class-rider.php:1574 
+#: includes/class-rider.php:1620
+msgid "There has been an error, please refresh page"
+msgstr "Es ist ein Fehler unterlaufen, bitte aktualisiere die Seite"
+
+#: includes/class-common.php:193
+msgid "Both passwords must match"
+msgstr "Die Passwörter müssen übereinstimmen"
+
+#: includes/class-common.php:206
+msgid "Both email addresses must match"
+msgstr ""
+"Die E-Mail-Adressen müssen übereinstimmen\n"
+
+#: includes/class-common.php:213
+msgid "Email in use by another user"
+msgstr "E-Mail bei der Verwendung von einem anderen Benutzer"
+
+#: includes/class-common.php:272
+msgid "Your details have been updated"
+msgstr "Deine Daten wurden aktualisiert"
+
+#: includes/class-common.php:299
+msgid "You have successfully logged out"
+msgstr "Sie haben sich erfolgreich abgemeldet"
+
+#: includes/class-common.php:305
+msgid "Password successfully reset"
+msgstr "Kennwort erfolgreich zurückgesetzt"
+
+#: includes/class-common.php:316 includes/class-common.php:387
+msgid "Username or Email Address"
+msgstr "Benutzername oder E-Mail Adresse"
+
+#: includes/class-common.php:320 includes/class-common.php:1248
+msgid "Password"
+msgstr ""
+"Passwort\n"
+
+#: includes/class-common.php:324
+msgid "Remember Me"
+msgstr "Erinnere mich"
+
+#: includes/class-common.php:326 includes/class-common.php:398
+msgid "Login"
+msgstr "Einloggen"
+
+#: includes/class-common.php:335 includes/class-common.php:390 
+#: includes/class-common.php:462
+msgid "Lost Password"
+msgstr "Passwort vergessen"
+
+#: includes/class-common.php:361
+msgid "Password reset email successfully sent"
+msgstr "Passwort E-Mail-Reset erfolgreich gesendet"
+
+#: includes/class-common.php:424 includes/class-common.php:2049
+msgid "The passwords do not match."
+msgstr "Die Passwörter stimmen nicht überein."
+
+#: includes/class-common.php:443
+msgid "Please enter your new password below"
+msgstr "Bitte geben Sie Ihr neues Passwort ein"
+
+#: includes/class-common.php:446
+msgid "New Password"
+msgstr "Neues Passwort"
+
+#: includes/class-common.php:450
+msgid "Confirm Password"
+msgstr "Kennwort bestätigen"
+
+#: includes/class-common.php:454
+msgid "Reset Password"
+msgstr "Passwort zurücksetzen"
+
+#: includes/class-common.php:487 includes/class-volunteer.php:1284
+msgid "Security token expired. Please refresh the page."
+msgstr "Sicherheitstoken abgelaufen Bitte aktualisieren Sie die Seite."
+
+#: includes/class-common.php:488 includes/class-volunteer.php:1285
+msgid ""
+"Please slow down rate of tracking requests or you will be banned for a period"
+msgstr ""
+"Bitte verlängern Sie die Rate von Tracking-Anfragen oder Sie werden für "
+"einen Zeitraum verboten"
+
+#: includes/class-common.php:564
+msgid "Item"
+msgstr "Artikel"
+
+#: includes/class-common.php:565
+msgid "Price"
+msgstr "Preis"
+
+#: includes/class-common.php:566
+msgid "Order Number"
+msgstr "Bestellungsnummer"
+
+#: includes/class-common.php:567
+msgid "Order Date"
+msgstr "Auftragsdatum"
+
+#: includes/class-common.php:568
+msgid "Order Status"
+msgstr ""
+"Bestellungsstatus \n"
+
+#: includes/class-common.php:579
+msgid "Awaiting Payment"
+msgstr "Zahlung wird erwartet"
+
+#: includes/class-common.php:582
+msgid "Processing"
+msgstr "Im Prozess"
+
+#: includes/class-common.php:585
+msgid "Pending Payment"
+msgstr "Ausstehende Zahlung"
+
+#: includes/class-common.php:588
+msgid "Paid"
+msgstr "Bezahlt"
+
+#: includes/class-common.php:591
+msgid "Cancelled"
+msgstr "Storniert"
+
+#: includes/class-common.php:594
+msgid "Refunded"
+msgstr "Rückerstattet"
+
+#: includes/class-common.php:598
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: includes/class-common.php:637
+msgid "Rider Merchandise"
+msgstr "Artikel Fahrer"
+
+#: includes/class-common.php:640
+msgid "Volunteer Merchandise"
+msgstr "Artikel Freiwilligen Helfer"
+
+#: includes/class-common.php:680 includes/class-common.php:681 
+#: includes/class-common.php:721 includes/class-common.php:722
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/class-common.php:695 includes/class-common.php:818
+msgid "Control"
+msgstr "Kontrolle"
+
+#: includes/class-common.php:699 includes/class-common.php:722
+msgid "Bag Drops"
+msgstr "Gepäckabgabes"
+
+#: includes/class-common.php:721 includes/class-common.php:722
+msgid "No"
+msgstr "Nein"
+
+#: includes/class-common.php:816
+msgid "Timestamp"
+msgstr "Zeitstempel"
+
+#: includes/class-common.php:817
+msgid "Event"
+msgstr "Vorgang"
+
+#: includes/class-common.php:820
+msgid "Time in Hand"
+msgstr "Zeit in der Hand"
+
+#: includes/class-common.php:871 includes/class-rider.php:1167
+msgid "None"
+msgstr "Keiner"
+
+#: includes/class-common.php:1243 includes/class-rider.php:183
+msgid "Your rider number is "
+msgstr "Ihre Fahrer-Nummer"
+
+#: includes/class-common.php:1249
+msgid "New password"
+msgstr ""
+"Neues Passwort\n"
+
+#: includes/class-common.php:1251
+msgid "Confirm new password"
+msgstr ""
+"Neues Passwort bestätigen\n"
+
+#: includes/class-common.php:1255
+msgid "Email"
+msgstr "E-Mail-Adresse"
+
+#: includes/class-common.php:1256
+msgid "New email"
+msgstr ""
+"Neue E-Mail-Adresse\n"
+
+#: includes/class-common.php:1258
+msgid "Confirm new email"
+msgstr "Neue E-Mail-Adresse bestätigen"
+
+#: includes/class-common.php:1259
+msgid "Please confirm new email address"
+msgstr "Bitte bestätige deine neue E-Mail-Adresse"
+
+#: includes/class-common.php:1262
+msgid "Contact"
+msgstr "Kontakt"
+
+#: includes/class-common.php:1263
+msgid "Line 1"
+msgstr "Adresszeile 1"
+
+#: includes/class-common.php:1265
+msgid "Line 2"
+msgstr "Adresszeile 2"
+
+#: includes/class-common.php:1267
+msgid "City"
+msgstr "Stadt"
+
+#: includes/class-common.php:1269
+msgid "County"
+msgstr "Bundesland"
+
+#: includes/class-common.php:1273
+msgid "Country"
+msgstr "Land"
+
+#: includes/class-common.php:1280
+msgid "Post Code"
+msgstr ""
+"Postleitzahl\n"
+
+#: includes/class-common.php:1284 includes/class-common.php:1292
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/class-common.php:1289
+msgid "Emergency"
+msgstr "Notfall"
+
+#: includes/class-common.php:1290 includes/class-rider.php:1018
+msgid "Name"
+msgstr "Name"
+
+#: includes/class-common.php:1300
+msgid "Food"
+msgstr "Ernährung"
+
+#: includes/class-common.php:1301
+msgid ""
+"To improve the food choices at the event please indicate your dietary needs. "
+"We cannot guarantee gluten, nut or lactose-free food at controls."
+msgstr ""
+"Damit wir das Essensangebot an den Kontrollstellen optimieren können, bitten "
+"wir dich, uns über spezielle Ernährungsbedürfnisse zu informieren. Wir "
+"können allerdings nicht garantieren, dass  vegetarische sowie gluten und "
+"laktosefreie Gerichte an den Kontrollpunkten tatsächlich verfügbar sind. "
+
+#: includes/class-common.php:1306
+msgid "Vegetarian"
+msgstr "Vegetarier"
+
+#: includes/class-common.php:1311
+msgid "Vegan"
+msgstr "Veganer"
+
+#: includes/class-common.php:1316
+msgid "Gluten Intolerant"
+msgstr "Gluten-Intoleranz"
+
+#: includes/class-common.php:1321
+msgid "Nut Allergy"
+msgstr "Nuss-Allergie "
+
+#: includes/class-common.php:1326
+msgid "Lactose Intolerant"
+msgstr "Laktose-Intoleranz"
+
+#: includes/class-common.php:1333
+msgid "Privacy"
+msgstr "Datenschutz"
+
+#: includes/class-common.php:1334
+msgid ""
+"By default, all of your online event tracking data will be made public on "
+"this website. You have the option to change this below. "
+msgstr ""
+"In der Grundeinstellung werden alle Tracking-Daten, die wir während der "
+"Veranstaltung erfassen, auf dieser Webseite öffentlich zugänglich gemacht. "
+"Unten hast Du die Möglichkeit, diese Einstellung zu ändern. "
+
+#: includes/class-common.php:1339
+msgid "Show when I check in to a control location"
+msgstr "Anzeigen, wenn ich bei einem Kontrollpunkt einchecke. "
+
+#: includes/class-common.php:1344
+msgid "Show when I check out of a control location"
+msgstr "Anzeigen, wenn ich bei einem Kontrollpunkt auschecke."
+
+#: includes/class-common.php:1349
+msgid "Show when I book a bed at a control location"
+msgstr "Anzeigen, wenn ich ein Bett in einem Kontrollpunkt buche."
+
+#: includes/class-common.php:1354
+msgid "Other"
+msgstr "Anderes"
+
+#: includes/class-common.php:1357 includes/class-common.php:1361
+msgid "Team Name"
+msgstr "Teamname"
+
+#: includes/class-common.php:1396 includes/class-rider.php:136 
+#: includes/class-rider.php:259
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: includes/class-common.php:1782
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Jemand habe ein Passwort-Reset für das folgende Konto erbeten:"
+
+#: includes/class-common.php:1979
+msgid "Username, email address, or password are incorrect"
+msgstr "Benutzername, E-Mail-Adresse oder Passwort sind falsch"
+
+#: includes/class-common.php:1997
+msgid "Please refresh page"
+msgstr "Bitte aktualisieren Sie die Seite"
+
+#: includes/class-volunteer.php:296
+msgid "Confirm"
+msgstr "Bestätigen"
+
+#: includes/class-volunteer.php:305
+msgid "No matching riders found"
+msgstr "Keine passenden Reiter gefunden"
+
+#: includes/class-volunteer.php:305
+msgid "Matching riders found"
+msgstr "Passende Radfahrer gefunden"
+
+#: includes/class-volunteer.php:402
+msgid "hours"
+msgstr "stunde"
+
+#: includes/class-volunteer.php:402
+msgid "mins"
+msgstr "mins"
+
+#: includes/class-volunteer.php:1299
+msgid "Enter rider ID, for example A35"
+msgstr "Geben Sie die Fahrer ID ein, beispielsweise A35"
+
+#: includes/class-volunteer.php:1304 includes/class-volunteer.php:1318
+msgid "Find"
+msgstr "Finden"
+
+#: includes/class-volunteer.php:1313
+msgid "Enter last name"
+msgstr "Nachnamen eingeben"
+
+#: includes/class-volunteer.php:1738
+msgid "Registration"
+msgstr "Anmeldung"
+
+#: includes/class-volunteer.php:1739
+msgid "Entered Start Pen"
+msgstr "Eingetragener Start-Stift"
+
+#: includes/class-volunteer.php:1740
+msgid "Arrival"
+msgstr "Ankunft"
+
+#: includes/class-volunteer.php:1741
+msgid "Departure"
+msgstr "Abreise"
+
+#: includes/class-volunteer.php:1742
+msgid "Sleep Start"
+msgstr "Schlafstart"
+
+#: includes/class-volunteer.php:1743
+msgid "Sleep End"
+msgstr "Schlafende"
+
+#: includes/class-volunteer.php:1744
+msgid "Bag Drop Arrival"
+msgstr "Gepäckabgabe Ankunft"
+
+#: includes/class-volunteer.php:1745
+msgid "Bag Drop Departure"
+msgstr "Gepäckabgabe Abreise"
+
+#: includes/class-rider.php:88 includes/class-rider.php:204 
+#: includes/class-rider.php:378 includes/class-rider.php:820
+msgid "You have chosen"
+msgstr "Du hast folgendes ausgewählt"
+
+#: includes/class-rider.php:97 includes/class-rider.php:385
+msgid "and"
+msgstr "und"
+
+#: includes/class-rider.php:105 includes/class-rider.php:393
+msgid "You have chosen no bag drops"
+msgstr "Du hast keine Gepäckabgabe ausgewählt"
+
+#: includes/class-rider.php:182 includes/class-rider.php:813
+msgid "Your designated start time is"
+msgstr "Ihr bezeichnet Startzeit"
+
+#: includes/class-rider.php:182 includes/class-rider.php:214 
+#: includes/class-rider.php:251 includes/class-rider.php:830 
+#: includes/class-rider.php:882
+msgid "time limit"
+msgstr ""
+"Zeitlimit\n"
+
+#: includes/class-rider.php:191
+msgid "Please choose a preferred start time"
+msgstr "Bitte wähle deine gewünschte Startzeit."
+
+#: includes/class-rider.php:220 includes/class-rider.php:234 
+#: includes/class-rider.php:875
+msgid "You have no preferred start time"
+msgstr "Du hast keine gewünschte Startzeit"
+
+#: includes/class-rider.php:360
+msgid "Please choose a Control for Bag Drop 1 or set Bag Drop 2 to None"
+msgstr ""
+"Bitte wähle eine Kontrolle für Gepäckabgabe 1 oder stelle Gepäckabgabe 2 auf "
+"\"keine\" um"
+
+#: includes/class-rider.php:398
+msgid "Your bag drop details have been updated"
+msgstr "Deine Gepäckabgabedetails wurden aktualisiert"
+
+#: includes/class-rider.php:891
+msgid "Your preferred start time has been updated"
+msgstr "Deine gewünschte Startzeit wurde aktualisiert"

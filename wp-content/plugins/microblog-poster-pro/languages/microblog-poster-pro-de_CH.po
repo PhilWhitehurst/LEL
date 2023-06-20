@@ -1,0 +1,36 @@
+# Copyright (C) 2015 Microblog Poster Pro Add-on
+# This file is distributed under the same license as the Microblog Poster Pro Add-on package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Microblog Poster Pro Add-on 1.5.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/microblog-poster-"
+"pro\n"
+"POT-Creation-Date: 2015-04-26 18:13:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-04-27 01:59+1\n"
+"Last-Translator: EFFICIENT SCRIPTS \n"
+"Language-Team: EFFICIENT SCRIPTS \n"
+
+
+#. Plugin Name of the plugin/theme
+msgid "Microblog Poster Pro Add-on"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://efficientscripts.com/microblogposterpro"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides additional features to Microblog Poster Wordpress plugin."
+msgstr "Bietet zusätzliche Funktionen für das Microblog Poster Wordpress Plugin."
+""
+
+#. Author of the plugin/theme
+msgid "Efficient Scripts"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://efficientscripts.com/"
+msgstr ""

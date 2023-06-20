@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: London Edinburgh London 2017\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-20 13:54+0000\n"
+"PO-Revision-Date: 2017-07-20 13:55+0000\n"
+"Last-Translator: Phil <website@londonedinburghlondon.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: searchform.php:13
+msgid "Search this site..."
+msgstr ""
+
+#: footer.php:21
+#, php-format
+msgid "Copyright &#169; %1$s "
+msgstr ""
+
+#: footer.php:22 footer.php:22
+msgid ","
+msgstr ""
+
+#: content/post.php:39 includes/shortcodes.php:157
+msgid "Tweet"
+msgstr ""
+
+#: content/post.php:43 includes/shortcodes.php:161
+msgid "Share"
+msgstr ""
+
+#: includes/shortcodes.php:485
+msgid "Public Tracking"
+msgstr "Rastreo público"
+
+#. Description of the theme
+msgid "NudieWP Child Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "Jon Slator / Phil Whitehurst"
+msgstr ""
+
+#: header.php:28
+msgid "LEL2017_Logo_White-EN_GB-RGB.svg"
+msgstr "LEL2017_Logo_White-ESP-RGB.svg"
+
+#: footer.php:22
+msgid "Terms and Conditions"
+msgstr ""
+"\n"
+"  \n"
+"Términos\n"
+"  y Condiciones"
+
+#: footer.php:22
+msgid "Privacy"
+msgstr ""
+"\n"
+"  \n"
+"Privacidad"
+
+#: footer.php:22
+msgid "Contact Us"
+msgstr ""
+"\n"
+"  \n"
+"Contáctanos"
+
+#: functions.php:39
+msgid "London Edinburgh London 2017"
+msgstr "Londres Edimburgo Londres 2017"
+
+#: functions.php:88 includes/shortcodes.php:180
+msgid "...more"
+msgstr "...más"
+
+#: content/post.php:19 includes/shortcodes.php:135
+msgid "Published on"
+msgstr "Publicado el"
+
+#: content/post.php:51
+#, php-format
+msgid "Posted in %s"
+msgstr "Publicado en %s"
+
+#: content/post.php:83
+msgid "Posted in"
+msgstr "Publicado en "
+
+#: includes/shortcodes.php:47
+msgid "1500 RIDERS"
+msgstr ""
+"\n"
+"  \n"
+"1500\n"
+"  CICLISTAS"
+
+#: includes/shortcodes.php:54
+msgid "1400 KILOMETRES"
+msgstr "1400 KILÓMETROS"
+
+#: includes/shortcodes.php:61
+msgid "FIVE DAYS IN SUMMER"
+msgstr ""
+"\n"
+"  \n"
+"CINCO\n"
+"  DÍAS DE VERANO"
+
+#: includes/shortcodes.php:68
+msgid "ONE AMAZING ADVENTURE"
+msgstr ""
+"\n"
+"  \n"
+"UNA  AVENTURA MARAVILLOSA"
+
+#: includes/shortcodes.php:123 includes/shortcodes.php:180 
+#: includes/shortcodes.php:360
+msgid "NEWS"
+msgstr "NOTICIAS"
+
+#: includes/shortcodes.php:527
+msgid "Northbound"
+msgstr "Sentido Norte"
+
+#: includes/shortcodes.php:528
+msgid "Southbound"
+msgstr "Sentido Sur"

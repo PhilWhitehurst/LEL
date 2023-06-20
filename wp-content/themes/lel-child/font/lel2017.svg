@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="lel2017" horiz-adv-x="1000" >
+<font-face font-family="lel2017" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="marker" unicode="&#xe800;" d="m950 350l-87-87-276-277-87 88 277 276-277 277 87 87 363-364z m-537 363l-276-276-87-87 87-87 277-277 87 88-277 276 276 277-87 86z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

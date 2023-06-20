@@ -1,0 +1,337 @@
+
+2016-10-14 07:35:51  | INFO | * * * * *
+2016-10-14 07:35:51  | INFO | * Purged Everything!
+2016-10-14 07:35:51  | INFO | * * * * *
+2016-10-14 07:58:34  | INFO | * * * * *
+2016-10-14 07:58:34  | INFO | * Purged Everything!
+2016-10-14 07:58:34  | INFO | * * * * *
+2016-10-14 07:59:30  | INFO | * * * * *
+2016-10-14 07:59:30  | INFO | * Purged Everything!
+2016-10-14 07:59:30  | INFO | * * * * *
+2016-10-14 08:06:22  | INFO | * * * * *
+2016-10-14 08:06:22  | INFO | * Purged Everything!
+2016-10-14 08:06:22  | INFO | * * * * *
+2016-10-14 10:30:06  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 10:30:06  | INFO | * * * * *
+2016-10-14 10:30:06  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 10:30:06  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 10:30:06  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 10:30:06  | INFO | * * * * *
+2016-10-14 10:30:06  | INFO | Function purgePost BEGIN ===
+2016-10-14 10:30:06  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 10:30:06  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 10:30:11  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:30:16  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:30:44  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 10:30:44  | INFO | * * * * *
+2016-10-14 10:30:44  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 10:30:44  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 10:30:44  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 10:30:44  | INFO | * * * * *
+2016-10-14 10:30:44  | INFO | Function purgePost BEGIN ===
+2016-10-14 10:30:44  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 10:30:44  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 10:30:49  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:30:54  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:30:59  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:04  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:04  | INFO | Purging page (id 2191, blog id 1)
+2016-10-14 10:31:04  | INFO | - Purging URL | http://londonedinburghlondon.com/contact-us/
+2016-10-14 10:31:06  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 10:31:06  | INFO | * * * * *
+2016-10-14 10:31:06  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 10:31:06  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 10:31:06  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 10:31:06  | INFO | * * * * *
+2016-10-14 10:31:06  | INFO | Function purgePost BEGIN ===
+2016-10-14 10:31:06  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 10:31:06  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 10:31:09  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:11  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:14  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:16  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:19  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:21  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:24  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:24  | INFO | Purging author archive
+2016-10-14 10:31:24  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 10:31:26  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:26  | INFO | Purging page (id 2191, blog id 1)
+2016-10-14 10:31:26  | INFO | - Purging URL | http://londonedinburghlondon.com/contact-us/
+2016-10-14 10:31:29  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:31  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:34  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:36  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:41  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:46  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:31:46  | INFO | Purging author archive
+2016-10-14 10:31:46  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 10:45:49  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 10:45:49  | INFO | * * * * *
+2016-10-14 10:45:49  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 10:45:49  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 10:45:49  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 10:45:49  | INFO | * * * * *
+2016-10-14 10:45:49  | INFO | Function purgePost BEGIN ===
+2016-10-14 10:45:49  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 10:45:49  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 10:55:21  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 10:55:21  | INFO | * * * * *
+2016-10-14 10:55:21  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 10:55:21  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 10:55:21  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 10:55:21  | INFO | * * * * *
+2016-10-14 10:55:21  | INFO | Function purgePost BEGIN ===
+2016-10-14 10:55:21  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 10:55:21  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 10:55:26  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:55:31  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:55:36  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:55:41  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:55:41  | INFO | Purging page (id 2191, blog id 1)
+2016-10-14 10:55:41  | INFO | - Purging URL | http://londonedinburghlondon.com/contact-us/
+2016-10-14 10:55:46  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:55:51  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:55:56  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:56:01  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:56:01  | INFO | Purging author archive
+2016-10-14 10:56:01  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 10:56:06  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:56:11  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:56:16  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:56:43  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 10:56:43  | INFO | * * * * *
+2016-10-14 10:56:43  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 10:56:43  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 10:56:43  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 10:56:43  | INFO | * * * * *
+2016-10-14 10:56:43  | INFO | Function purgePost BEGIN ===
+2016-10-14 10:56:43  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 10:56:43  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 10:56:48  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:57:35  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 10:57:35  | INFO | * * * * *
+2016-10-14 10:57:35  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 10:57:35  | INFO | * Custom post type 'page' :: My Control (4789).
+2016-10-14 10:57:35  | INFO | * CPT 'page' (4789) published or edited and its status is published
+2016-10-14 10:57:35  | INFO | * * * * *
+2016-10-14 10:57:35  | INFO | Function purgePost BEGIN ===
+2016-10-14 10:57:35  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 10:57:35  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 10:57:40  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:57:45  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:57:50  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:57:55  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:57:55  | INFO | Purging page (id 4789, blog id 1)
+2016-10-14 10:57:55  | INFO | - Purging URL | http://londonedinburghlondon.com/volunteer-my-control/
+2016-10-14 10:58:00  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:58:05  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:58:10  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:58:15  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 10:58:15  | INFO | Purging author archive
+2016-10-14 10:58:15  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 11:03:16  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 11:03:16  | INFO | * * * * *
+2016-10-14 11:03:16  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 11:03:16  | INFO | * Custom post type 'page' :: My Control (4789).
+2016-10-14 11:03:16  | INFO | * CPT 'page' (4789) published or edited and its status is published
+2016-10-14 11:03:16  | INFO | * * * * *
+2016-10-14 11:03:16  | INFO | Function purgePost BEGIN ===
+2016-10-14 11:03:16  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 11:03:16  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 11:03:22  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:03:27  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:03:32  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:03:37  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:03:37  | INFO | Purging page (id 4789, blog id 1)
+2016-10-14 11:03:37  | INFO | - Purging URL | http://londonedinburghlondon.com/volunteer-my-control/
+2016-10-14 11:03:42  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:03:47  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:03:52  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:03:57  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:03:57  | INFO | Purging author archive
+2016-10-14 11:03:57  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 11:04:02  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:06  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 11:24:06  | INFO | * * * * *
+2016-10-14 11:24:06  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 11:24:06  | INFO | * Custom post type 'page' :: My Control (4789).
+2016-10-14 11:24:06  | INFO | * CPT 'page' (4789) published or edited and its status is published
+2016-10-14 11:24:06  | INFO | * * * * *
+2016-10-14 11:24:06  | INFO | Function purgePost BEGIN ===
+2016-10-14 11:24:06  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 11:24:06  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 11:24:11  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:16  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:21  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:26  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:26  | INFO | Purging page (id 4789, blog id 1)
+2016-10-14 11:24:26  | INFO | - Purging URL | http://londonedinburghlondon.com/volunteer-my-control/
+2016-10-14 11:24:31  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:36  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:41  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:46  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:24:46  | INFO | Purging author archive
+2016-10-14 11:24:46  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 11:26:24  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 11:26:24  | INFO | * * * * *
+2016-10-14 11:26:24  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 11:26:24  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 11:26:24  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 11:26:24  | INFO | * * * * *
+2016-10-14 11:26:24  | INFO | Function purgePost BEGIN ===
+2016-10-14 11:26:24  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 11:26:24  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 11:38:17  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 11:38:17  | INFO | * * * * *
+2016-10-14 11:38:17  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 11:38:17  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 11:38:17  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 11:38:17  | INFO | * * * * *
+2016-10-14 11:38:17  | INFO | Function purgePost BEGIN ===
+2016-10-14 11:38:17  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 11:38:17  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 11:46:19  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 11:46:19  | INFO | * * * * *
+2016-10-14 11:46:19  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 11:46:19  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 11:46:19  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 11:46:19  | INFO | * * * * *
+2016-10-14 11:46:19  | INFO | Function purgePost BEGIN ===
+2016-10-14 11:46:19  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 11:46:19  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 11:46:24  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:46:29  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:46:34  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:46:39  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:46:39  | INFO | Purging page (id 2191, blog id 1)
+2016-10-14 11:46:39  | INFO | - Purging URL | http://londonedinburghlondon.com/contact-us/
+2016-10-14 11:46:44  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:46:49  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:46:54  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:46:59  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:46:59  | INFO | Purging author archive
+2016-10-14 11:46:59  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 11:47:04  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:50:42  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 11:50:42  | INFO | * * * * *
+2016-10-14 11:50:42  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 11:50:42  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 11:50:42  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 11:50:42  | INFO | * * * * *
+2016-10-14 11:50:42  | INFO | Function purgePost BEGIN ===
+2016-10-14 11:50:42  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 11:50:42  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 11:50:47  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:50:52  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:50:57  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:51:02  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:51:02  | INFO | Purging page (id 2191, blog id 1)
+2016-10-14 11:51:02  | INFO | - Purging URL | http://londonedinburghlondon.com/contact-us/
+2016-10-14 11:51:07  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:51:12  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:51:17  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:51:22  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:51:22  | INFO | Purging author archive
+2016-10-14 11:51:22  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 11:51:27  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 11:51:32  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:11:55  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 12:11:55  | INFO | * * * * *
+2016-10-14 12:11:55  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 12:11:55  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 12:11:55  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 12:11:55  | INFO | * * * * *
+2016-10-14 12:11:55  | INFO | Function purgePost BEGIN ===
+2016-10-14 12:11:55  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 12:11:55  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 12:12:00  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:13:48  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 12:13:48  | INFO | * * * * *
+2016-10-14 12:13:48  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 12:13:48  | INFO | * Custom post type 'page' :: Admin Set Designated Start (4724).
+2016-10-14 12:13:48  | INFO | * CPT 'page' (4724) published or edited and its status is published
+2016-10-14 12:13:48  | INFO | * * * * *
+2016-10-14 12:13:48  | INFO | Function purgePost BEGIN ===
+2016-10-14 12:13:48  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 12:13:48  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 12:13:53  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:17  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 12:21:17  | INFO | * * * * *
+2016-10-14 12:21:17  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 12:21:17  | INFO | * Custom post type 'page' :: Admin Set Designated Start (4724).
+2016-10-14 12:21:17  | INFO | * CPT 'page' (4724) published or edited and its status is published
+2016-10-14 12:21:17  | INFO | * * * * *
+2016-10-14 12:21:17  | INFO | Function purgePost BEGIN ===
+2016-10-14 12:21:17  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 12:21:17  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 12:21:22  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:27  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:32  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:37  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:37  | INFO | Purging page (id 4724, blog id 1)
+2016-10-14 12:21:37  | INFO | - Purging URL | http://londonedinburghlondon.com/admin-set-designated-start/
+2016-10-14 12:21:42  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:47  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:52  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:57  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:21:57  | INFO | Purging author archive
+2016-10-14 12:21:57  | INFO | - Purging URL | http://londonedinburghlondon.com/author/philw/
+2016-10-14 12:22:02  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:31:51  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 12:31:51  | INFO | * * * * *
+2016-10-14 12:31:51  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 12:31:51  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 12:31:51  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 12:31:51  | INFO | * * * * *
+2016-10-14 12:31:51  | INFO | Function purgePost BEGIN ===
+2016-10-14 12:31:51  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 12:31:51  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 12:31:56  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:32:16  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 12:32:16  | INFO | * * * * *
+2016-10-14 12:32:16  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 12:32:16  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 12:32:16  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 12:32:16  | INFO | * * * * *
+2016-10-14 12:32:16  | INFO | Function purgePost BEGIN ===
+2016-10-14 12:32:16  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 12:32:16  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 12:32:21  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:32:26  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:32:31  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:32:36  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:32:36  | INFO | Purging page (id 2191, blog id 1)
+2016-10-14 12:32:36  | INFO | - Purging URL | http://londonedinburghlondon.com/contact-us/
+2016-10-14 12:34:25  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 12:34:25  | INFO | * * * * *
+2016-10-14 12:34:25  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 12:34:25  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 12:34:25  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 12:34:25  | INFO | * * * * *
+2016-10-14 12:34:25  | INFO | Function purgePost BEGIN ===
+2016-10-14 12:34:25  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 12:34:25  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 12:34:30  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:34:35  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:37:36  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 12:37:36  | INFO | * * * * *
+2016-10-14 12:37:36  | INFO | * Blog :: London Edinburgh London 2017 (1).
+2016-10-14 12:37:36  | INFO | * Custom post type 'page' :: Contact Us (2191).
+2016-10-14 12:37:36  | INFO | * CPT 'page' (2191) published or edited and its status is published
+2016-10-14 12:37:36  | INFO | * * * * *
+2016-10-14 12:37:36  | INFO | Function purgePost BEGIN ===
+2016-10-14 12:37:36  | INFO | Purging homepage 'http://londonedinburghlondon.com/'
+2016-10-14 12:37:36  | INFO | - Purging URL | http://londonedinburghlondon.com/
+2016-10-14 12:37:41  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:37:46  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+2016-10-14 12:39:32  | INFO | Purge post on transition post STATUS from publish to publish
+2016-10-14 12:39:32  | INFO | * * * * *
+2016-10-14 12:39:32  | INFO | * Blog :: French - LEL2017 Live (3).
+2016-10-14 12:39:32  | INFO | * Custom post type 'page' :: Contact (102).
+2016-10-14 12:39:32  | INFO | * CPT 'page' (102) published or edited and its status is published
+2016-10-14 12:39:32  | INFO | * * * * *
+2016-10-14 12:39:32  | INFO | Function purgePost BEGIN ===
+2016-10-14 12:39:32  | INFO | Purging homepage 'http://fr.londonedinburghlondon.com/'
+2016-10-14 12:39:32  | INFO | - Purging URL | http://fr.londonedinburghlondon.com/
+2016-10-14 12:39:37  | ERROR | Error while purging URL. cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received

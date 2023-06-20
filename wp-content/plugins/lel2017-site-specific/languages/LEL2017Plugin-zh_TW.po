@@ -1,0 +1,673 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LEL 2017\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-23 10:24+0000\n"
+"PO-Revision-Date: 2017-07-23 17:56+0000\n"
+"Last-Translator: Phil <website@londonedinburghlondon.com>\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh-TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/class-woocommerce.php:1055
+msgid "Please provide your date of birth"
+msgstr "騎單車號碼無法識別。"
+
+#: includes/class-woocommerce.php:1062
+msgid "Please provide your date of birth in yyyy-mm-dd format"
+msgstr ""
+
+#: includes/class-woocommerce.php:1070
+msgid "You must be logged in to pruchase this product"
+msgstr ""
+
+#: includes/class-woocommerce.php:1075
+msgid "Riders resident in the UK may not purchase this product"
+msgstr ""
+
+#: includes/class-woocommerce.php:1089
+msgid "You must be aged 18-65 on 10th August 2017 to purchase this product"
+msgstr ""
+
+#: includes/class-woocommerce.php:1104
+msgid "You must be aged 66-75 on 10th August 2017 to purchase this product"
+msgstr ""
+
+#: includes/class-woocommerce.php:1186
+msgid "Fees"
+msgstr ""
+
+#: includes/class-charts.php:1616
+msgid "Riders"
+msgstr ""
+
+#: includes/class-volunteer.php:261
+msgid "Please enter search criteria"
+msgstr ""
+
+#: includes/class-volunteer.php:345
+msgid "Rider number not recognised."
+msgstr ""
+
+#: includes/class-volunteer.php:569
+msgid ""
+"Duplicate scan, please wait 15 seconds and try again if not a duplicate."
+msgstr ""
+
+#: includes/class-volunteer.php:703
+msgid "There was an error please refresh screen"
+msgstr ""
+
+#: includes/class-volunteer.php:731
+msgid "Rider successfully scanned"
+msgstr ""
+
+#: includes/class-volunteer.php:874
+msgid "Rider notes successfully updated"
+msgstr ""
+
+#: includes/class-rider.php:188 includes/class-rider.php:787
+msgid "Your preferred start time is now locked"
+msgstr ""
+
+#: includes/class-rider.php:331
+msgid "Your bag drop choices are now locked"
+msgstr ""
+
+#: includes/class-rider.php:439 includes/class-rider.php:625
+msgid "Description cannot be empty"
+msgstr ""
+
+#: includes/class-rider.php:447 includes/class-rider.php:638
+msgid "Start time not in yyyy-mm-dd hh:mm format"
+msgstr ""
+
+#: includes/class-rider.php:456 includes/class-rider.php:646
+msgid "time limit not valid"
+msgstr ""
+
+#: includes/class-rider.php:463 includes/class-rider.php:653
+msgid "Total Places must be numeric"
+msgstr ""
+
+#: includes/class-rider.php:494
+msgid "There was an error adding the wave"
+msgstr ""
+
+#: includes/class-rider.php:500
+msgid "Rider Wave has been added"
+msgstr ""
+
+#: includes/class-rider.php:690
+msgid "There was an error updating the wave"
+msgstr ""
+
+#: includes/class-rider.php:698
+msgid "Rider Wave has been updated"
+msgstr ""
+
+#: includes/class-rider.php:758
+msgid "There was an error deleting the wave"
+msgstr ""
+
+#: includes/class-rider.php:764
+msgid "Rider Wave has been deleted"
+msgstr ""
+
+#: includes/class-rider.php:820
+msgid "You are in"
+msgstr ""
+
+#: includes/class-rider.php:844
+msgid "Designated time has been set"
+msgstr ""
+
+#: includes/class-rider.php:1021
+msgid "Team"
+msgstr ""
+
+#: includes/class-rider.php:1024
+msgid "Preferred Start"
+msgstr ""
+
+#: includes/class-rider.php:1027
+msgid "Designated Start"
+msgstr ""
+
+#: includes/class-rider.php:1602 includes/class-rider.php:1610
+msgid "Designated Start not set"
+msgstr ""
+
+#. Name of the plugin
+msgid "LEL 2017"
+msgstr ""
+
+#. Description of the plugin
+msgid "London Edinburgh London specific functionality"
+msgstr ""
+
+#. Author of the plugin
+msgid "Phil Whitehurst"
+msgstr ""
+
+#: includes/class-common.php:487 includes/class-volunteer.php:1284
+msgid "Security token expired. Please refresh the page."
+msgstr "安全令牌過期 請刷新頁面。"
+
+#: includes/class-common.php:488 includes/class-volunteer.php:1285
+msgid ""
+"Please slow down rate of tracking requests or you will be banned for a period"
+msgstr "請放慢跟踪請求的速度，否則您將被禁止一段時間"
+
+#: includes/class-charts.php:116 includes/class-charts.php:126 
+#: includes/class-rider.php:114 includes/class-rider.php:123
+msgid "Bag Drop"
+msgstr "袋下降"
+
+#: includes/class-charts.php:222
+msgid "Requested Places"
+msgstr "檔次需求"
+
+#: includes/class-charts.php:232
+msgid "Available Places"
+msgstr "檔次供應"
+
+#: includes/class-charts.php:347
+msgid "Time in Hand (mins)"
+msgstr "時間在手（分鐘）"
+
+#: includes/class-charts.php:381 includes/class-charts.php:528 
+#: includes/class-charts.php:685 includes/class-charts.php:815 
+#: includes/class-charts.php:942 includes/class-volunteer.php:421
+msgid "No tracking data found"
+msgstr "找不到跟踪數據"
+
+#: includes/class-charts.php:387 includes/class-charts.php:534 
+#: includes/class-charts.php:691 includes/class-charts.php:821 
+#: includes/class-charts.php:948 includes/class-volunteer.php:430
+msgid "Tracking data found"
+msgstr "跟踪數據找到"
+
+#: includes/class-charts.php:470 includes/class-charts.php:623
+msgid "Overall Average Speed (km/h)"
+msgstr "總平均速度（km / h）"
+
+#: includes/class-charts.php:481 includes/class-charts.php:636
+msgid "Average Speed from last control (km/h)"
+msgstr "平均速度（km / h）"
+
+#: includes/class-charts.php:772
+msgid "Elapsed (hours)"
+msgstr "經過（小時）"
+
+#: includes/class-charts.php:900 includes/class-common.php:819
+msgid "Distance (km)"
+msgstr "距離（公里）"
+
+#: includes/class-charts.php:1024 includes/class-charts.php:1597 
+#: includes/class-common.php:696 includes/class-common.php:714
+msgid "Northbound"
+msgstr "北行"
+
+#: includes/class-charts.php:1033 includes/class-charts.php:1606 
+#: includes/class-common.php:697 includes/class-common.php:719
+msgid "Southbound"
+msgstr "南行"
+
+#: includes/class-common.php:167 includes/class-rider.php:323 
+#: includes/class-rider.php:340 includes/class-rider.php:414 
+#: includes/class-rider.php:422 includes/class-rider.php:429 
+#: includes/class-rider.php:510 includes/class-rider.php:585 
+#: includes/class-rider.php:595 includes/class-rider.php:602 
+#: includes/class-rider.php:615 includes/class-rider.php:709 
+#: includes/class-rider.php:717 includes/class-rider.php:724 
+#: includes/class-rider.php:734 includes/class-rider.php:780 
+#: includes/class-rider.php:796 includes/class-rider.php:856 
+#: includes/class-rider.php:1214 includes/class-rider.php:1225 
+#: includes/class-rider.php:1301 includes/class-rider.php:1312 
+#: includes/class-rider.php:1387 includes/class-rider.php:1398 
+#: includes/class-rider.php:1477 includes/class-rider.php:1488 
+#: includes/class-rider.php:1563 includes/class-rider.php:1574 
+#: includes/class-rider.php:1620
+msgid "There has been an error, please refresh page"
+msgstr "錯誤。請刷新網頁"
+
+#: includes/class-common.php:193
+msgid "Both passwords must match"
+msgstr "兩個密碼不吻合"
+
+#: includes/class-common.php:206
+msgid "Both email addresses must match"
+msgstr ""
+"兩個電郵地址不吻合\n"
+
+#: includes/class-common.php:213
+msgid "Email in use by another user"
+msgstr "電子郵件在被其他用戶使用"
+
+#: includes/class-common.php:272
+msgid "Your details have been updated"
+msgstr "你的資料已更新"
+
+#: includes/class-common.php:299
+msgid "You have successfully logged out"
+msgstr "您已成功退出"
+
+#: includes/class-common.php:305
+msgid "Password successfully reset"
+msgstr "密碼重置成功"
+
+#: includes/class-common.php:316 includes/class-common.php:387
+msgid "Username or Email Address"
+msgstr "用戶名或郵箱地址"
+
+#: includes/class-common.php:320 includes/class-common.php:1248
+msgid "Password"
+msgstr ""
+"密碼\n"
+
+#: includes/class-common.php:324
+msgid "Remember Me"
+msgstr "記住我"
+
+#: includes/class-common.php:326 includes/class-common.php:398
+msgid "Login"
+msgstr "登錄"
+
+#: includes/class-common.php:335 includes/class-common.php:390 
+#: includes/class-common.php:462
+msgid "Lost Password"
+msgstr "忘記密碼"
+
+#: includes/class-common.php:361
+msgid "Password reset email successfully sent"
+msgstr "密碼重置郵件發送成功"
+
+#: includes/class-common.php:424 includes/class-common.php:2049
+msgid "The passwords do not match."
+msgstr "密碼不匹配。"
+
+#: includes/class-common.php:443
+msgid "Please enter your new password below"
+msgstr "請在下面輸入您的新密碼"
+
+#: includes/class-common.php:446
+msgid "New Password"
+msgstr "新密碼"
+
+#: includes/class-common.php:450
+msgid "Confirm Password"
+msgstr "確認密碼"
+
+#: includes/class-common.php:454
+msgid "Reset Password"
+msgstr "重置密碼"
+
+#: includes/class-common.php:564
+msgid "Item"
+msgstr "項目"
+
+#: includes/class-common.php:565
+msgid "Price"
+msgstr "售價"
+
+#: includes/class-common.php:566
+msgid "Order Number"
+msgstr "訂單編號"
+
+#: includes/class-common.php:567
+msgid "Order Date"
+msgstr "訂單日期"
+
+#: includes/class-common.php:568
+msgid "Order Status"
+msgstr ""
+"訂單狀態\n"
+
+#: includes/class-common.php:579
+msgid "Awaiting Payment"
+msgstr "尚待付款"
+
+#: includes/class-common.php:582
+msgid "Processing"
+msgstr "處理中"
+
+#: includes/class-common.php:585
+msgid "Pending Payment"
+msgstr "待付款"
+
+#: includes/class-common.php:588
+msgid "Paid"
+msgstr "付款完成"
+
+#: includes/class-common.php:591
+msgid "Cancelled"
+msgstr "已經取消"
+
+#: includes/class-common.php:594
+msgid "Refunded"
+msgstr "已退款"
+
+#: includes/class-common.php:598
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/class-common.php:637
+msgid "Rider Merchandise"
+msgstr "騎自行車的人商品"
+
+#: includes/class-common.php:640
+msgid "Volunteer Merchandise"
+msgstr "Artikel Freiwilligen Helfer"
+
+#: includes/class-common.php:680 includes/class-common.php:681 
+#: includes/class-common.php:721 includes/class-common.php:722
+msgid "Yes"
+msgstr "是"
+
+#: includes/class-common.php:695 includes/class-common.php:818
+msgid "Control"
+msgstr "檢查點"
+
+#: includes/class-common.php:698 includes/class-common.php:721
+msgid "Mandatory"
+msgstr "強制性"
+
+#: includes/class-common.php:699 includes/class-common.php:722
+msgid "Bag Drops"
+msgstr "袋滴"
+
+#: includes/class-common.php:700 includes/class-common.php:723
+msgid "Bed Capacity"
+msgstr "床容量"
+
+#: includes/class-common.php:721 includes/class-common.php:722
+msgid "No"
+msgstr "沒有"
+
+#: includes/class-common.php:816
+msgid "Timestamp"
+msgstr "時間戳"
+
+#: includes/class-common.php:817
+msgid "Event"
+msgstr "事件"
+
+#: includes/class-common.php:820
+msgid "Time in Hand"
+msgstr "時間在手"
+
+#: includes/class-common.php:871 includes/class-rider.php:1167
+msgid "None"
+msgstr "沒有"
+
+#: includes/class-common.php:1243 includes/class-rider.php:183
+msgid "Your rider number is "
+msgstr "您的號碼是騎自行車"
+
+#: includes/class-common.php:1249
+msgid "New password"
+msgstr ""
+"新密碼\n"
+
+#: includes/class-common.php:1251
+msgid "Confirm new password"
+msgstr ""
+"確認新密碼\n"
+
+#: includes/class-common.php:1255
+msgid "Email"
+msgstr "電郵"
+
+#: includes/class-common.php:1256
+msgid "New email"
+msgstr ""
+"新電郵\n"
+
+#: includes/class-common.php:1258
+msgid "Confirm new email"
+msgstr "確認新電郵地址"
+
+#: includes/class-common.php:1259
+msgid "Please confirm new email address"
+msgstr "請確認新電郵地址"
+
+#: includes/class-common.php:1262
+msgid "Contact"
+msgstr "聯絡方法"
+
+#: includes/class-common.php:1263
+msgid "Line 1"
+msgstr "地址1"
+
+#: includes/class-common.php:1265
+msgid "Line 2"
+msgstr "地址2"
+
+#: includes/class-common.php:1267
+msgid "City"
+msgstr "城市"
+
+#: includes/class-common.php:1269
+msgid "County"
+msgstr "縣"
+
+#: includes/class-common.php:1273
+msgid "Country"
+msgstr "國家"
+
+#: includes/class-common.php:1280
+msgid "Post Code"
+msgstr ""
+"郵政編號\n"
+
+#: includes/class-common.php:1284 includes/class-common.php:1292
+msgid "Phone"
+msgstr "電話號碼"
+
+#: includes/class-common.php:1289
+msgid "Emergency"
+msgstr "緊急聯絡方法"
+
+#: includes/class-common.php:1290 includes/class-rider.php:1018
+msgid "Name"
+msgstr "姓名"
+
+#: includes/class-common.php:1300
+msgid "Food"
+msgstr "食物"
+
+#: includes/class-common.php:1301
+msgid ""
+"To improve the food choices at the event please indicate your dietary needs. "
+"We cannot guarantee gluten, nut or lactose-free food at controls."
+msgstr "為提供最理想的食物選擇，請讓我們知道你的飲食需要。我們不能保證但會盡力提供無麵筋、無乳糖及無果仁的飲食選擇"
+
+#: includes/class-common.php:1306
+msgid "Vegetarian"
+msgstr "素食"
+
+#: includes/class-common.php:1311
+msgid "Vegan"
+msgstr "全素"
+
+#: includes/class-common.php:1316
+msgid "Gluten Intolerant"
+msgstr "麵筋不耐症"
+
+#: includes/class-common.php:1321
+msgid "Nut Allergy"
+msgstr "果仁過敏"
+
+#: includes/class-common.php:1326
+msgid "Lactose Intolerant"
+msgstr "乳糖不耐症"
+
+#: includes/class-common.php:1333
+msgid "Privacy"
+msgstr "私隱"
+
+#: includes/class-common.php:1334
+msgid ""
+"By default, all of your online event tracking data will be made public on "
+"this website. You have the option to change this below. "
+msgstr "騎行者的實時進度追蹤預設為公開於本網頁上，但你可在下方更改設定"
+
+#: includes/class-common.php:1339
+msgid "Show when I check in to a control location"
+msgstr "顯示到達控制點時間"
+
+#: includes/class-common.php:1344
+msgid "Show when I check out of a control location"
+msgstr "顯示離開控制點時間"
+
+#: includes/class-common.php:1349
+msgid "Show when I book a bed at a control location"
+msgstr "顯示開始輪候控制點床位的時間"
+
+#: includes/class-common.php:1354
+msgid "Other"
+msgstr "其他"
+
+#: includes/class-common.php:1357 includes/class-common.php:1361
+msgid "Team Name"
+msgstr "隊名"
+
+#: includes/class-common.php:1396 includes/class-rider.php:136 
+#: includes/class-rider.php:259
+msgid "Update"
+msgstr "更新"
+
+#: includes/class-common.php:1782
+msgid "Someone has requested a password reset for the following account:"
+msgstr "有人要求該帳戶以下重置密碼："
+
+#: includes/class-common.php:1979
+msgid "Username, email address, or password are incorrect"
+msgstr "用戶名，電子郵件地址或密碼不正確"
+
+#: includes/class-common.php:1997
+msgid "Please refresh page"
+msgstr "請刷新頁面"
+
+#: includes/class-volunteer.php:296
+msgid "Confirm"
+msgstr "確認"
+
+#: includes/class-volunteer.php:305
+msgid "No matching riders found"
+msgstr "沒有找到匹配的騎自行車的人"
+
+#: includes/class-volunteer.php:305
+msgid "Matching riders found"
+msgstr "找到匹配的騎自行車者"
+
+#: includes/class-volunteer.php:402
+msgid "hours"
+msgstr "小時"
+
+#: includes/class-volunteer.php:402
+msgid "mins"
+msgstr "分鐘"
+
+#: includes/class-volunteer.php:1299
+msgid "Enter rider ID, for example A35"
+msgstr "輸入車手ID，例如A35"
+
+#: includes/class-volunteer.php:1304 includes/class-volunteer.php:1318
+msgid "Find"
+msgstr "找"
+
+#: includes/class-volunteer.php:1313
+msgid "Enter last name"
+msgstr "輸入姓氏"
+
+#: includes/class-volunteer.php:1738
+msgid "Registration"
+msgstr "註冊"
+
+#: includes/class-volunteer.php:1739
+msgid "Entered Start Pen"
+msgstr "輸入開始筆"
+
+#: includes/class-volunteer.php:1740
+msgid "Arrival"
+msgstr "到達"
+
+#: includes/class-volunteer.php:1741
+msgid "Departure"
+msgstr "離開"
+
+#: includes/class-volunteer.php:1742
+msgid "Sleep Start"
+msgstr "睡眠開始"
+
+#: includes/class-volunteer.php:1743
+msgid "Sleep End"
+msgstr "睡眠開始..."
+
+#: includes/class-volunteer.php:1744
+msgid "Bag Drop Arrival"
+msgstr "袋滴到達"
+
+#: includes/class-volunteer.php:1745
+msgid "Bag Drop Departure"
+msgstr "行李離開"
+
+#: includes/class-rider.php:88 includes/class-rider.php:204 
+#: includes/class-rider.php:378 includes/class-rider.php:820
+msgid "You have chosen"
+msgstr "已選"
+
+#: includes/class-rider.php:97 includes/class-rider.php:385
+msgid "and"
+msgstr "與及"
+
+#: includes/class-rider.php:105 includes/class-rider.php:393
+msgid "You have chosen no bag drops"
+msgstr "你並未選取物資托運"
+
+#: includes/class-rider.php:182 includes/class-rider.php:813
+msgid "Your designated start time is"
+msgstr "您指定的開始時間是"
+
+#: includes/class-rider.php:182 includes/class-rider.php:214 
+#: includes/class-rider.php:251 includes/class-rider.php:830 
+#: includes/class-rider.php:882
+msgid "time limit"
+msgstr ""
+"時限\n"
+
+#: includes/class-rider.php:191
+msgid "Please choose a preferred start time"
+msgstr "請在此選擇出發時間。"
+
+#: includes/class-rider.php:220 includes/class-rider.php:234 
+#: includes/class-rider.php:875
+msgid "You have no preferred start time"
+msgstr "沒所謂"
+
+#: includes/class-rider.php:360
+msgid "Please choose a Control for Bag Drop 1 or set Bag Drop 2 to None"
+msgstr "請選擇行李丟棄1的位置或將行李丟棄2設置為無"
+
+#: includes/class-rider.php:398
+msgid "Your bag drop details have been updated"
+msgstr "你的行李托運選項已更改"
+
+#: includes/class-rider.php:891
+msgid "Your preferred start time has been updated"
+msgstr "出發時間已更改"

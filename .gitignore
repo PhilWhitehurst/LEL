@@ -1,0 +1,12 @@
+# Files and folders to be ignored in git commits
+
+local-config.php
+
+newsletter-activate.html
+newsletter-rider.html
+newsletter-volunteer.html
+
+/scss
+/css
+nbproject
+.elasticbeanstalk

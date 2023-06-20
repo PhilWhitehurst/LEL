@@ -1,0 +1,91 @@
+.woocommerce, .woocommerce-page {
+
+	/* Product Thumbnails */
+	.product-thumbnail {
+		text-align: center;
+	}
+	.product-thumbnail a.thumbnail {
+		display: inline-block;
+		margin: 0;
+
+		img {
+			width: 100%;
+			max-width: 120px;
+		}
+	}
+
+	/** Order Table Specific **/
+	td.product-name {
+		
+		/** Order - Variations **/
+		dl.variation {
+			margin: .25em 0 .5em;
+			font-size: .8751em;
+
+			dt {
+				font-weight: bold;
+				float: left;
+				clear: left;
+				margin: 0 .25em 0 0;
+				padding: 0
+			}
+			dd {
+				margin: 0 0 .25em 0;
+			}
+		}
+		/** Cart Backorder Notification **/
+		p.backorder_notification {
+			font-size:.83em
+		}
+		
+	}
+	/** Cart Quantity **/
+	td.product-quantity {
+		min-width: 80px;
+	}
+	/* Cart Actions */
+	.actions {
+		text-align: right;
+
+		.coupon {
+			text-align: left;
+
+			.form-group {
+				width: 50%;
+
+				#coupon_code {
+					width: 100%;
+				}
+
+				@media (max-width:$screen-md - 1){
+					width: 100%;
+				}
+			}
+		}
+	}
+	/** Cart Collaterals **/
+	.cart-collaterals {
+		width: 100%;
+
+		&:after {
+			@include clearfloat;
+		}
+		/* Cart totals */
+		.cart_totals .discount td {
+			color: #5cb85c;
+		}
+		/* Shipping Calc */
+		.shipping_calculator {
+			width: 48%;
+			text-align: right;
+			margin: 20px 0 0 0;
+			clear: right;
+			float: right;
+		}
+	}
+	.cart_totals {
+		th, td {
+			width: 50%;
+		}
+	}
+}

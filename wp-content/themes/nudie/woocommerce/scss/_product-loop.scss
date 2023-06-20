@@ -1,0 +1,55 @@
+.woocommerce, .woocommerce-page {
+
+	/* Product Loop */
+	.products {
+		margin:0 0 1em;
+		padding: 0;
+		list-style: none outside;
+		clear: both;
+
+		&:after {
+			@include clearfloat;
+		}
+		.product { 
+
+			padding: 0 10px 20px 10px;
+			position:relative;
+	
+			a.thumbnail img {
+				margin: 0;
+				width: 100%;
+				height: auto;
+				display: block;
+			}
+			.count.badge {
+				font-size: 1em;
+			}
+		}
+		.product-category {
+			padding-bottom: 20px;
+		}
+
+		.thumbnail {
+			width: 100%;
+			height: auto;
+			margin: 0px;
+			float: none;
+		}
+	}
+
+	.results-count-panel {
+		border: none;
+		-webkit-box-shadow:none;
+		box-shadow:none;
+		
+		.panel-body {
+			padding: 0;
+		}
+	}
+	.results-count {
+		font-size: 14px;
+		line-height: 34px;
+		height: 34px;
+	}
+
+}

@@ -1,0 +1,86 @@
+.woocommerce, .woocommerce-page {
+
+	/** Widget - Price Filter **/
+	.widget_price_filter {
+	
+		.price_slider {
+			margin-bottom: 1em;
+		}
+		.price_slider_amount {
+			text-align:right;
+			line-height:2.4em;
+			font-size:.8751em;
+
+			.button {
+				font-size:1.15em;
+				float:left;
+			}
+		}
+		.ui-slider {
+			position:relative;
+			text-align:left;
+
+			.ui-slider-handle {
+				position:absolute;
+				z-index:5;
+				width:.9em;
+				height:.9em;
+				-webkit-border-radius:1em;
+				-moz-border-radius:1em;
+				border-radius:1em;
+				border:1px solid #150d14;
+				cursor:pointer;
+				background: lighten($brand-primary, 20%);
+				background:-webkit-gradient(linear,left top,left bottom,from(lighten($brand-primary, 20%)),to($brand-primary));
+				background:-webkit-linear-gradient(lighten($brand-primary, 20%),$brand-primary);
+				background:-moz-linear-gradient(center top,lighten($brand-primary, 20%) 0,$brand-primary 100%);
+				background:-moz-gradient(center top,lighten($brand-primary, 20%) 0,$brand-primary 100%);
+				outline:0;
+				top:-0.25em;
+				-webkit-box-shadow:0 1px 2px rgba(0,0,0,0.3),inset 0 0 0 1px rgba(255,255,255,0.65);
+				-moz-box-shadow:0 1px 2px rgba(0,0,0,0.3),inset 0 0 0 1px rgba(255,255,255,0.65);
+				box-shadow:0 1px 2px rgba(0,0,0,0.3),inset 0 0 0 1px rgba(255,255,255,0.65);
+
+				&:last-child {
+					margin-left:-0.9em
+				}
+			}
+			.ui-slider-range {
+				position:absolute;
+				z-index:4;
+				font-size:.7em;
+				display:block;
+				border:0;
+				background:lighten($brand-primary, 20%);
+				border:1px solid #150d14;
+				-webkit-border-radius:1em;
+				-moz-border-radius:1em;
+				border-radius:1em
+			}
+		}
+		.price_slider_wrapper .ui-widget-content {
+			-webkit-border-radius:1em;
+			-moz-border-radius:1em;
+			border-radius:1em;
+			background:#1e1e1e;
+			background:-webkit-gradient(linear,left top,left bottom,from(#1e1e1e),to(#6a6a6a));
+			background:-webkit-linear-gradient(#1e1e1e,#6a6a6a);
+			background:-moz-linear-gradient(center top,#1e1e1e 0,#6a6a6a 100%);
+			background:-moz-gradient(center top,#1e1e1e 0,#6a6a6a 100%);
+		}
+		.ui-slider-horizontal {
+			height:.5em;
+
+			.ui-slider-range {
+				top:0;
+				height:100%
+			}
+			.ui-slider-range-min {
+				left:-1px
+			}
+			.ui-slider-range-max {
+				right:-1px
+			}
+		}
+	}
+}

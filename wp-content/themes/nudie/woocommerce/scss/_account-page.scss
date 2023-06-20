@@ -1,0 +1,55 @@
+.woocommerce, .woocommerce-page {
+
+	/*** Order Updates ***/
+	ol.commentlist.notes li.note {
+		p.meta {
+			font-weight:bold;
+			margin-bottom: 0;
+		}
+	}
+
+	ul.digital-downloads {
+		margin-left: 0;
+		padding-left: 0;
+
+		li {
+			list-style: none;
+			margin-left: 0;
+			padding-left: 0;
+
+			.count {
+				float: right;
+			}
+		}
+	}
+	.woocommerce-password-strength {
+		text-align: center;
+		font-weight: 600;
+		padding: 3px .5em;
+		font-size: 1em;
+
+		&.strong {
+			background-color: #c1e1b9;
+			border-color: #83c373;
+		}
+
+		&.short {
+			background-color: #f1adad;
+			border-color: #e35b5b;
+		}
+
+		&.bad {
+			background-color: #fbc5a9;
+			border-color: #f78b53;
+		}
+
+		&.good {
+			background-color: #ffe399;
+			border-color: #ffc733;
+		}
+	}
+
+	.woocommerce-MyAccount-navigation {
+		margin-bottom: 30px;
+	}
+}

@@ -1,0 +1,102 @@
+.woocommerce, .woocommerce-page {
+
+	.quantity .form-control {
+		max-width: 80px;
+	}
+
+	/** WooCommerce Forms **/
+	form {
+
+		.hidden {
+			visibility: hidden
+		}
+		.required {
+			color:red;
+			font-weight:bold;
+			border:0
+		}
+		.form-row [placeholder]:focus::-webkit-input-placeholder {
+			-webkit-transition:opacity .5s .5s ease;
+			-moz-transition:opacity .5s .5s ease;
+			transition:opacity .5s .5s ease;
+			opacity:0
+		}
+		.form-row {
+			label {
+				display:block;
+
+				&.checkbox {
+					display: inline;
+				}
+			}
+			.input-text {
+				width: 100%;
+			}
+			/** Validation **/
+			&.validate-required.woocommerce-validated input.input-text,
+			&.validate-required.woocommerce-validated input.form-control {
+				background-image:url(woocommerce/images/icons/valid.png);
+				background-position:95% center;
+				background-repeat:no-repeat
+			}
+			&.validate-required.woocommerce-invalid input.input-text,
+			&.validate-required.woocommerce-invalid input.form-control {
+				background-image:url(woocommerce/images/icons/invalid.png);
+				background-position:95% center;
+				background-repeat:no-repeat
+			}
+			&.validate-required.woocommerce-invalid .chzn-single,
+			&.validate-required.woocommerce-invalid .chzn-drop,
+			&.validate-required.woocommerce-invalid input.input-text,
+			&.validate-required.woocommerce-invalid input.form-control,
+			&.validate-required.woocommerce-invalid select {
+				border-color:#fb7f88
+			}
+		}
+		/** Form Columns **/
+		.form-row-first,
+		.form-row-last {
+			float: left;
+			width: 47%;
+			overflow: visible;
+		}
+		.form-row-last {
+			float: right;
+		}
+		.form-row-wide {
+			clear: both;
+		}
+		/** Coupons **/
+		&.login,
+		&.checkout_coupon,
+		&.register {
+			border:1px solid #e0dadf;
+			padding:20px;
+			margin:2em 0 2em 0;
+			text-align:left;
+			-webkit-border-radius:5px;
+			-moz-border-radius:5px;
+			border-radius:5px;
+		}
+	}
+
+	@media(-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi) {
+
+		.button.loading:before,
+		#submit.loading:before {
+			background-image:url(woocommerce/images/ajax-loader@2x.gif);
+			background-size:16px 16px
+		}
+		form .form-row.validate-required.woocommerce-validated input.input-text,
+		form .form-row.validate-required.woocommerce-validated input.form-control {
+			background-image:url(woocommerce/images/icons/valid@2x.png);
+			background-size:12px 9px;
+		}
+		form .form-row.validate-required.woocommerce-invalid input.input-text,
+		form .form-row.validate-required.woocommerce-invalid input.form-control {
+			background-image:url(woocommerce/images/icons/invalid@2x.png);
+			background-size:12px 9px
+		}
+	}	
+
+}

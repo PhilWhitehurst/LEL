@@ -1,0 +1,142 @@
+.woocommerce, .woocommerce-page {
+
+	/** Product & Product Pricing **/
+	.product {
+		position: relative;
+
+		.price {
+			display: block;
+			color: #5cb85c;
+			font-size: 1.2em;
+			margin-bottom: .5em;
+
+			ins {
+				color: #5cb85c;
+				text-decoration: none;
+				border: none;
+			}
+			del {
+				font-size: .67em;
+				color: #ccc;
+			}
+			.from {
+				font-size: .67em;
+				margin: -2px 0 0 0;
+				text-transform: uppercase;
+				color: rgba(145,145,145,0.5);
+			}
+		}
+		.stock {
+			font-size:.92em;
+			color: #5cb85c;
+		}
+		.out-of-stock {
+			color: #d2322d;
+		}
+		.onsale {
+			font-weight: bold;
+			position: absolute;
+			top: -10px;
+			left: -5px;
+			margin: 0;
+			font-size: 10px;
+			text-transform: uppercase;
+			border-radius: 50%;
+			-webkit-border-radius: 50%;
+			-moz-border-radius: 50%;
+			width: 36px;
+			height: 36px;
+			line-height: 36px;
+			padding: 0;
+			z-index: 99;
+		}
+		.images {
+			margin-bottom: 2em;
+
+			img {
+				display: block;
+				width: 100%;
+				height: auto;
+			}
+
+			.thumbnails a {
+				float: left;
+				width: 30%;
+				margin-right: 5%;
+			
+				&.last {
+					margin-right: 0;
+				}
+				&.first {
+					clear:both;
+				}
+			
+			}
+
+		}
+
+		/* Summary div (contains title, price etc) */
+		.summary {
+			margin-bottom: 2em
+		}
+
+		/* Social networking */
+		.social {
+			text-align: right;
+			margin: 0 0 1em;
+
+			span {
+				margin: 0 0 0 2px;
+
+				span {
+					margin: 0;
+				}
+				.stButton {
+					
+					.chicklets {
+						padding-left:16px;
+						width:0
+					}	
+					
+				}			
+
+			}
+			iframe {
+				float: left;
+				margin-top: 3px;
+			}	
+		}
+
+		/** Product Tabs **/
+		.tab-content {
+			border: 1px solid #ddd;
+			border-top: none;
+			padding: 20px;
+			margin-bottom: 20px;
+
+			.tab-pane h1:first-child,
+			.tab-pane h2:first-child,
+			.tab-pane h3:first-child {
+				margin-top: 0;
+			}
+			.tab-pane #comments {
+				padding-top: 0;
+			}
+		}
+
+		/* Add to cart button & forms */
+		.cart {
+			margin-bottom: 2em;
+
+			.quantity { 
+				float: left;
+				margin: 0 15px 0 0 !important;
+			}
+			.variations,
+			single_variation_wrap .single_variation {
+				margin-bottom: 1.5em;
+			}
+		}
+	}
+
+}

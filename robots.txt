@@ -1,0 +1,14 @@
+# go away
+User-agent: *
+Disallow: /wp-admin/
+crawl-delay: 100
+
+User-agent: CCBot/2.0
+Disallow: /
+
+User-agent: AhrefsBot/5.2
+Disallow: /
+
+User-agent: bingbot
+Disallow: /
+

@@ -1,0 +1,53 @@
+/* Used primarily on :after */
+@mixin clearfloat {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.woocommerce, .woocommerce-page {
+
+	/** Image Adjustments / Reset **/
+	.entry-content img {
+		border: none;
+		padding: 0;
+		border-radius: 0;
+		-moz-border-radius: 0;
+		-webkit-border-radius: 0;
+	}
+
+	/** Misc **/
+	.panel-body .products {
+		margin-bottom: 0px;
+		
+		.product {
+			margin-bottom: 20px;
+		}
+	}
+
+	small.note {
+		display:block;
+		color:#777;
+		font-size:11px;
+		line-height:21px;
+		margin-top:10px
+	}
+
+}
+
+$woocommerce-font-path: "woocommerce/fonts/" !default;
+
+@import "store-notice";
+@import "layout";
+@import "product-page";
+@import "product-loop";
+@import "cart-page";
+@import "account-page";
+@import "buttons";
+@import "reviews";
+@import "forms";
+@import "widget-cart";
+@import "widget-layered-nav";
+@import "widget-price-filter";
+@import "shipping-methods";
+@import "payments";

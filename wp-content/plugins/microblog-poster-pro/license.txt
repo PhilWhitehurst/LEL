@@ -1,0 +1,91 @@
+            END-USER LICENSE AGREEMENT ("License Agreement") 
+            for MicroblogPoster Pro, Enterprise or Ultimate Add-on.
+
+
+This End-User License Agreement ("License Agreement") is a legal agreement 
+between you (either an individual, an organization or a company) 
+and Efficient Scripts. ("Pro, Enterprise or Ultimate Add-on") for the Efficient Scripts' 
+software product identified above, which includes software and 
+includes "online" or electronic documentation ("Software Product").
+The Software Product also includes any updates and supplements to the original
+Software Product which may be provided to you by Efficient Scripts.
+
+By purchasing or otherwise using the Software Product, you agree to be bound 
+by the terms of this License Agreement. If you do not agree to the terms of 
+this License Agreement, do not use the Software Product.
+
+The Software Product is protected by copyright laws and international 
+copyright treaties, as well as other intellectual property laws and treaties.
+The Software Product is sold as a single user license and no ownership
+is transferred, only the right to use the license software.
+
+
+LICENSE GRANT
+
+We hereby grant you a non-transferable and non-exclusive right and license
+to use the Software Product.
+A multiple-site license to Microblog Poster "Pro, Enterprise or Ultimate Add-on".
+This license is for your own sites (not your clients) and is one-time 
+payment only. All future upgrades to the Add-on you've purchased will be 
+available free of charge.
+
+
+RESTRICTIONS ON USE
+
+You can't re-sell or re-distribute the Pro, Enterprise or Ultimate Add-on OR 
+websites with pre-installed Pro, Enterprise or Ultimate Add-on. Either you can’t install
+Pro, Enterprise or Ultimate Add-on for your clients.
+
+In addition to all other terms and conditions of this License Agreement, 
+you shall not:
+
+(1) rent, lease, license, sublicense or distribute the Software Product
+or any portions of it on a standalone basis or as part of your application.
+(2) remove any copyright, trademark or other proprietary notices
+from the Software Product or its copies.
+(3) use the Software Product for the benefit of any other person or entity.
+(4) allow any third parties to access, use or support the Software Product.
+
+
+TECHNICAL SUPPORT
+
+Efficient Scripts provides support by email for problem solving and online 
+access to Software Product Documentation.
+Technical support is provided on the business days and only during the 
+Europe/Belgrade Time Zone (GMT+1) business hours.
+ONLY Applicable to Ultimate Add-on: The support is provided only to the owner/holder 
+of the license, not to all users/authors.
+
+
+TERMINATION OF AGREEMENT
+
+You may terminate this agreement at any time by destroying the Software Product
+and all your copies of it, as well as all other related documents.
+
+Efficient Scripts may terminate this agreement if you fail to comply with 
+these terms. Upon such termination, you agree to destroy the Software Product 
+and all your copies of it, as well as all other related documents. 
+
+
+LIMITED WARRANTY
+
+Efficient Scripts provides to you the software “as is”;
+and Efficient Scripts hereby disclaims with respect to the Software Product
+all warranties and conditions, whether express, implied or statutory,
+including but not limited to any (if any) warranties or conditions of 
+or related to: non-infringement, merchantability, fitness for a particular 
+purpose, accuracy or completeness of response. 
+
+
+LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, in no event shall
+Efficient Scripts be liable for any special, incidental, indirect,
+or consequential damages whatsoever (including, without limitation,
+damages for loss of business profits, business interruption,
+loss of business information, or any other pecuniary loss)
+arising out of the use of or inability to use the Software Product
+or the provision of or failure to provide support services,
+even if Efficient Scripts has been advised of the possibility of such damages.
+
+

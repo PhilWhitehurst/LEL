@@ -1,0 +1,56 @@
+/*
+*  Phil Whitehurst
+*  September 2015
+*/
+
+.circle {
+    fill: #e42127;
+}
+
+.node:hover .circle {
+    fill: #333e48;
+
+}
+.node:hover text {
+    fill:#fff;
+}
+.tooltip
+{
+    background-color:#333e48;
+    color:#fff;
+    padding:10px;
+}
+
+
+
+.bar {
+    fill: #e42127!important;
+}
+
+.bar:hover {
+    fill: #333e48!important;
+}
+
+.axis {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.x.axis path {
+    display: none;
+}
+
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: #000;
+    color: #fff;
+    border-radius: 2px;
+}

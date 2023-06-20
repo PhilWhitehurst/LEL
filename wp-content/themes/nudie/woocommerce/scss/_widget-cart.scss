@@ -1,0 +1,67 @@
+.woocommerce, .woocommerce-page {
+
+	/** Cart & Widget - Product Lists **/
+	ul.cart_list,
+	ul.product_list_widget {
+		list-style:none outside;
+		padding:0;
+		margin:0;
+
+		li {
+			padding:4px 6px;
+			margin:0;
+			list-style:none;
+
+			&:nth-child(odd) {
+				background-color: #f9f9f9;
+			}
+			&:after {
+				@include clearfloat;
+			}
+			a {
+				font-weight:bold;
+			}
+			img {
+				float:right;
+				margin-left:4px;
+				width:32px;
+				height:auto;
+				box-shadow:0 1px 2px 0 rgba(0,0,0,0.3);
+				-webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,0.3);
+				-moz-box-shadow:0 1px 2px 0 rgba(0,0,0,0.3)
+			}
+			dl {
+				margin:0;
+				font-size:.8751em;
+				padding-left:1em;
+				border-left:2px solid rgba(0,0,0,0.1);
+
+				dt {
+					float:left;
+					clear:left;
+					margin-right:.25em
+				}
+				dd {
+					margin-bottom:.5em
+				}
+			}
+		}
+	}
+	/** Widget - Shopping Cart **/
+	.widget_shopping_cart {
+		margin-top: 20px;
+	
+		.total {
+			border-top:3px double #f7f6f7;
+			padding:4px 0 0;
+			
+			strong {
+				min-width:40px;
+				display: inline-block;
+			}
+		}
+		.buttons:after {
+			@include clearfloat;
+		}
+	}
+}

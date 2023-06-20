@@ -1,0 +1,200 @@
+.nav
+{
+   padding-left: 0;
+   margin-bottom: 0;
+   list-style: none;
+}
+.nav > li
+{
+   position: relative;
+   display: block;
+}
+.nav > li > a
+{
+   position: relative;
+   display: block;
+   padding: 10px 15px;
+}
+.nav > li > a:hover,.nav > li > a:focus
+{
+   text-decoration: none;
+   background-color: #eee;
+}
+.nav > li.disabled > a
+{
+   color: #777;
+}
+.nav > li.disabled > a:hover,
+.nav > li.disabled > a:focus
+{
+   color: #777;
+   text-decoration: none;
+   cursor: not-allowed;
+   background-color: transparent;
+}
+.nav .open > a,.nav .open > a:hover,.nav .open > a:focus
+{
+   background-color: #eee;
+   border-color: #337ab7;
+}
+.nav > li > a > img
+{
+   max-width: none;
+}
+.custom-details-body
+{
+   position: relative;
+   padding: 15px !important;
+}
+.form-wizard .steps
+{
+   padding: 10px 0;
+   margin-bottom: 15px;
+   background-color: #fff;
+   background-image: none;
+   filter: none;
+   border: 0px;
+   box-shadow: none;
+}
+.form-wizard .steps > li > a.step
+{
+   background-color: #fff;
+   background-image: none;
+   filter: none;
+   border: 0px;
+   box-shadow: none;
+   text-decoration: none;
+}
+.form-wizard .steps > li > a.step:hover
+{
+   background: none;
+}
+.form-wizard .steps > li > a.step > .number
+{
+   background-color: #eee;
+   display: inline-block;
+   text-align: center !important;
+   font-size: 16px;
+   font-weight: 300;
+   padding: 11px 15px 13px 15px;
+   margin-right: 10px;
+   height: 45px;
+   width: 45px;
+   -webkit-border-radius: 50% !important;
+   -moz-border-radius: 50% !important;
+   border-radius: 50% !important;
+}
+.form-wizard .steps > li > a.step > .desc
+{
+   display: inline-block;
+   font-size: 16px;
+   font-weight: 300;
+}
+.form-wizard .steps > li.active > a.step .number
+{
+   background-color: #a4cd39 !important;
+   color: #fff;
+}
+.form-wizard .steps > li.active > a.step .desc
+{
+   color: #333;
+}
+.form-wizard .steps > li.done > a.step .number
+{
+   background-color: #dfba49;
+   color: #fff;
+}
+.form-wizard .steps > li.done > a.step .desc
+{
+   color: #333;
+}
+.tabbable-tabdrop .nav-tabs,
+.tabbable-tabdrop .nav-pills
+{
+   position: relative;
+}
+.tabbable-tabdrop .nav-tabs .caret,
+.tabbable-tabdrop .nav-pills .caret
+{
+   display: none;
+}
+.tabbable-tabdrop .nav-tabs .tabdrop .dropdown-toggle i,
+.tabbable-tabdrop .nav-pills .tabdrop .dropdown-toggle i
+{
+   font-size: 14px;
+}
+@media (min-width: 768px)
+{
+   .nav-justified > li
+   {
+      display: table-cell;
+      width: 33%;
+   }
+}
+.progress
+{
+   height: 20px;
+   margin-bottom: 20px;
+   overflow: hidden;
+   background-color: #f5f5f5;
+   border-radius: 4px;
+   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+   box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+}
+.progress-bar
+{
+   float: left;
+   width: 0;
+   height: 100%;
+   font-size: 12px;
+   line-height: 20px;
+   color: #fff;
+   text-align: center;
+   background-color: #337ab7;
+   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
+   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
+   -webkit-transition: width .6s ease;
+   -o-transition: width .6s ease;
+   transition: width .6s ease;
+}
+.progress-striped .progress-bar,.progress-bar-striped
+{
+   background-image:	-webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+   background-image:	-o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+   background-image:	linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+   -webkit-background-size: 40px 40px;
+   background-size: 40px 40px;
+}
+.progress.active .progress-bar,.progress-bar.active
+{
+   -webkit-animation: progress-bar-stripes 2s linear infinite;
+   -o-animation: progress-bar-stripes 2s linear infinite;
+   animation: progress-bar-stripes 2s linear infinite;
+}
+.progress-bar-success
+{
+   background-color: #a4cd39;
+}
+.custom-line-separator
+{
+   height: 1px;
+   background: #717171 none repeat scroll 0% 0%;
+   border-bottom: 1px solid #DDD;
+   margin: 65px 0px 10px 0px;
+   position: initial;
+}
+.premium-editions
+{
+   float:right; 
+   font-size:15px !important; 
+   top:10px !important; 
+   color:white !important;
+   margin-top:10px !important;
+   font-weight:500 !important;
+   text-decoration: none !important;
+
+}
+.premium-editions:hover
+{
+   text-decoration: underline !important;
+}
